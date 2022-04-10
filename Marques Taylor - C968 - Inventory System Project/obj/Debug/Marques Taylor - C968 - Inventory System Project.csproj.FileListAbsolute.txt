@@ -1,0 +1,14 @@
+C:\Users\blastercompute\OneDrive\Documents\Marques Taylor - C968 - Inventory System Project\Marques Taylor - C968 - Inventory System Project\bin\Debug\C968 - Inventory System Project.exe.config
+C:\Users\blastercompute\OneDrive\Documents\Marques Taylor - C968 - Inventory System Project\Marques Taylor - C968 - Inventory System Project\bin\Debug\C968 - Inventory System Project.exe
+C:\Users\blastercompute\OneDrive\Documents\Marques Taylor - C968 - Inventory System Project\Marques Taylor - C968 - Inventory System Project\bin\Debug\C968 - Inventory System Project.pdb
+C:\Users\blastercompute\OneDrive\Documents\Marques Taylor - C968 - Inventory System Project\Marques Taylor - C968 - Inventory System Project\obj\Debug\C968___Inventory_System_Project.AddPartForm.resources
+C:\Users\blastercompute\OneDrive\Documents\Marques Taylor - C968 - Inventory System Project\Marques Taylor - C968 - Inventory System Project\obj\Debug\C968___Inventory_System_Project.MainForm.resources
+C:\Users\blastercompute\OneDrive\Documents\Marques Taylor - C968 - Inventory System Project\Marques Taylor - C968 - Inventory System Project\obj\Debug\C968___Inventory_System_Project.Properties.Resources.resources
+C:\Users\blastercompute\OneDrive\Documents\Marques Taylor - C968 - Inventory System Project\Marques Taylor - C968 - Inventory System Project\obj\Debug\Marques Taylor - C968 - Inventory System Project.csproj.GenerateResource.cache
+C:\Users\blastercompute\OneDrive\Documents\Marques Taylor - C968 - Inventory System Project\Marques Taylor - C968 - Inventory System Project\obj\Debug\Marques Taylor - C968 - Inventory System Project.csproj.CoreCompileInputs.cache
+C:\Users\blastercompute\OneDrive\Documents\Marques Taylor - C968 - Inventory System Project\Marques Taylor - C968 - Inventory System Project\obj\Debug\C968 - Inventory System Project.exe
+C:\Users\blastercompute\OneDrive\Documents\Marques Taylor - C968 - Inventory System Project\Marques Taylor - C968 - Inventory System Project\obj\Debug\C968 - Inventory System Project.pdb
+C:\Users\blastercompute\OneDrive\Documents\Marques Taylor - C968 - Inventory System Project\Marques Taylor - C968 - Inventory System Project\obj\Debug\C968___Inventory_System_Project.AddProduct.resources
+C:\Users\blastercompute\OneDrive\Documents\Marques Taylor - C968 - Inventory System Project\Marques Taylor - C968 - Inventory System Project\obj\Debug\C968___Inventory_System_Project.ModifyPart.resources
+C:\Users\blastercompute\OneDrive\Documents\Marques Taylor - C968 - Inventory System Project\Marques Taylor - C968 - Inventory System Project\obj\Debug\C968___Inventory_System_Project.ModifyProduct.resources
+C:\Users\blastercompute\OneDrive\Documents\Marques Taylor - C968 - Inventory System Project\Marques Taylor - C968 - Inventory System Project\obj\Debug\Marques Taylor - C968 - Inventory System Project.csproj.AssemblyReference.cache
